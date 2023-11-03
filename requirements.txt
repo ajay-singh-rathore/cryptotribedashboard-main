@@ -2,6 +2,5 @@ plotly==5.2.2
 pandas==1.3.3
 streamlit
 streamlit-lottie
-matplotlib.pyplot 
+matplotlib
 seaborn
-plotly.graph_objects
