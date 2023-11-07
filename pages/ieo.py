@@ -11,7 +11,7 @@ import os
 
 
 base_url = 'https://api.cryptorank.io/v1'
-api_key = "0d7b48f4fa9b1a26adbc21b1095ec8342e46d3189d86628195ee6472b39b"
+api_key = "d7befe069c91e60b58110bcefe8176b957890abc5e6fbbbdb5dc843b19af"
 
 
 def fetch_current_prices():
